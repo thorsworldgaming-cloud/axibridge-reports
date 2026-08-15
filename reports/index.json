@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260815-161013-d9fj",
+      "title": "Anyanka Sturm",
+      "commanders": [
+        "Anyanka Sturm"
+      ],
+      "guild": {
+        "id": "28C90744-19BE-E411-A8E7-AC162DAE5A05",
+        "name": "Teh Devils Rejects",
+        "tag": "HELL"
+      },
+      "dateStart": "2026-08-15T22:10:13.000Z",
+      "dateEnd": "2026-08-15T22:49:21.000Z",
+      "dateLabel": "8/15/2026, 4:10:13 PM - 8/15/2026, 4:49:21 PM",
+      "url": "https://thorsworldgaming-cloud.github.io/axibridge-reports/?report=20260815-161013-d9fj",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 9,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20260815-161013-bkn9",
       "title": "Anyanka Sturm",
       "commanders": [
