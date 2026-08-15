@@ -1,0 +1,35 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260814-205552-wjr7",
+      "title": "Xxmaine",
+      "commanders": [
+        "Xxmaine"
+      ],
+      "guild": {
+        "id": "39B7E489-AABA-4938-8651-3C8471A2C83D",
+        "name": "Archangels Haven",
+        "tag": "HALO"
+      },
+      "dateStart": "2026-08-15T02:55:52.000Z",
+      "dateEnd": "2026-08-15T03:00:55.000Z",
+      "dateLabel": "8/14/2026, 8:55:52 PM - 8/14/2026, 9:00:55 PM",
+      "url": "https://thorsworldgaming-cloud.github.io/axibridge-reports/?report=20260814-205552-wjr7",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 91
+      }
+    }
+  ]
+}
