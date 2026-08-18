@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260817-204533-nwzq",
+      "title": "Avocado Pineapple, P Ó R R",
+      "commanders": [
+        "Avocado Pineapple",
+        "P Ó R R"
+      ],
+      "guild": {
+        "id": "95940E87-8435-EE11-81B2-A840610878B3",
+        "name": "Thunder And Lightning Bolt",
+        "tag": "PÓRR"
+      },
+      "dateStart": "2026-08-18T02:45:33.000Z",
+      "dateEnd": "2026-08-18T05:42:52.000Z",
+      "dateLabel": "8/17/2026, 8:45:33 PM - 8/17/2026, 11:42:52 PM",
+      "url": "https://thorsworldgaming-cloud.github.io/axibridge-reports/?report=20260817-204533-nwzq",
+      "summary": {
+        "borderlandsPct": 0.05555555555555555,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260815-161013-d9fj",
       "title": "Anyanka Sturm",
       "commanders": [
